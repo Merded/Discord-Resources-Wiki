@@ -1,23 +1,23 @@
 ---
-title: Wiki
-sidebar_label: About
+title: Вики
+sidebar_label: О вики
 sidebar_position: 1
 slug: /
 description: A list of tons of useful discord resources and utilities for all types of users, from beginners to power users.
 ---
 
-# About
+# О вики
 
-## Welcome to Discord Resources Wiki
+## Добро пожаловать на Discord Resources Wiki!
 
-## So what is this thing?
+## Что это такое?
 
-The founder of this project, @755792681313108018, had been looking for a good and handy list of Discord resources that would cover topics from basic knowledge to advanced utilities; a list that all Discord users, from beginners to proficient, will find useful. But no such list could be found.
+Основатель проекта @755792681313108018 долгое время искал полезный список ресурсов Discord'а, который бы охватывал все темы - от основ до продвинутых инструментов; такой список, который найдут полезным все - от новичков до опытных пользователей Discord'a. Но такого списка не нашлось.
 
-And so, an idea struck!
-With the help of a few friends who know their way around Discord, together the **Discord Resources Wiki** was created. The project ended up taking months of research, organisation and design work to become what it is today, and we hope you'll find it useful.
+И вот так идея залетела!
+С помощью нескольких много знающих о Discord'е друзей мы создали **Discord Resources Wiki**. Создание проекта заняло несколько месяцев поиска, организации и дизайна, чтобы он стал таким, каким он есть сейчас. Мы надеемся что вы найдете его полезным.
 
-## What am I seeing here?
+## Что я здесь вижу?
 
 We group together similar resources under common categories and topics, accessible on the left on desktop or with the menu icon on mobile. Each resource has a brief description of what it is, followed by the link to where it may be accessed as well as credits to the creators.
 
